@@ -1,0 +1,10 @@
+# Ninja Skills
+
+A machine to practice linux skills
+
+```
+$ find / -group best-group 2>/dev/nul
+l
+/mnt/D8B3
+/home/v2V
+```
